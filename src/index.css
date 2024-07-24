@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* [Mytheme="light"] {
+  .greeting {
+    color: black;
+  }
+
+  .bg1 {
+    background-color: #ffe8c5;
+  }
+} */
+
+.para.light {
+  color: blue;
+}
+
+.home.light {
+  background-color: #ffe8c5;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
